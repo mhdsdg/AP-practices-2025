@@ -1,2 +1,2 @@
 # AP-practices-2025
-I upload my answers to the class assignments here
+Answers to Advanced Programming course Spring 2025 at SUT
